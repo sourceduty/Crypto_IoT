@@ -1,4 +1,4 @@
-![Crypto IoT](https://github.com/user-attachments/assets/ae453e4e-eb3f-441c-9611-566ed1a0bd34)
+![Crypto](https://github.com/user-attachments/assets/5751fed0-16e7-4730-9ddf-3eaaa818f537)
 
 > Develop cryptomining and cryptowallet hardware.
 
